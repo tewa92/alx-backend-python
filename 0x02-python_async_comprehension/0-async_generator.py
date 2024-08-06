@@ -4,6 +4,7 @@
 import asyncio
 import random
 
+
 async def async_generator():
     '''Write an asynchronous coroutine called async_generator
     that takes no arguments.
